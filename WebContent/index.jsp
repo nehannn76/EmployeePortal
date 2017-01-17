@@ -2,9 +2,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Server</title>
 </head>
 <body>
-<div>Hello Web Service is Running.....</div>
+<h1>Hello Web Service is Running.....</h1>
 </body>
 </html>
