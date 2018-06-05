@@ -33,7 +33,7 @@
 		destroy-method="close">
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
 		<property name="url"
-			value="jdbc:mysql://10.130.0.26:3306/test" />
+			value="jdbc:mysql://10.131.0.49:3306/test" />
 		<property name="username" value="admin" />
 		<property name="password" value="root" />
 	</bean>
